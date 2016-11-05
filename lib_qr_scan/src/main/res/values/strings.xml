@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lib_qr_scan</string>
+    <string name="scan_title">扫一扫</string>
+</resources>

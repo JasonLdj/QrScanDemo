@@ -1,0 +1,2 @@
+include ':app', ':lib_qr_scan'
+//,'lib-qr-scan'
